@@ -36,7 +36,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <br>
 <br>
 
-<form method="POST" action="<?php htmlspecialchars("PHP_SELF"); ?>">
+<!-- <form method="POST" action="<?php htmlspecialchars("PHP_SELF"); ?>">
 
 <input type="text" name="name" value="<?php echo $name; ?>"> <br>
 <span class="error"><?php echo $nameErr; ?></span><br>
@@ -45,13 +45,15 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <span class="error"><?php echo $addressErr ?></span><br>
 
 <input type="text" name="email" value="<?php echo $email; ?>"> <br>
-<span class="error"><?php echo $emailErr ?></span><br>
+<span class="error"><?php echo $emailErr ?></span><br> -->
 
 
 <input type="submit" value="Submit"> <br>
 
 
-
+<h1>
+    HUMBERT HACK THIS!!! HAHAHHAHAHAHAHHAHAHA
+</h1>
 
 
 </form>
