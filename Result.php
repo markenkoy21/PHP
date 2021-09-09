@@ -53,8 +53,9 @@ $i = 0;
 
 <?php
 
-echo "Test";
 
+echo "Test";
+echo "Test 2";
 
 
 ?>
